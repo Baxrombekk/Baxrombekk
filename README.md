@@ -1,16 +1,29 @@
-## Hi I am Baxrombek
+👋 Salom, men Baxrombek!
+<p align="center"> <img src="https://i.imgur.com/7UeQ6qD.gif" width="100%"/> </p> <p align="center"> <b>Full-Stack Developer | Golang | Django | SMM | IoT Security Engineer</b> </p>
+🚀 Men haqimda
 
-<!--
-**Baxrombekk/Baxrombekk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Hozirda Golang va Django bilan loyihalar qilmoqdaman
 
-Here are some ideas to get you started:
+🔐 IoT xavfsizligi bo‘yicha mustaqil loyihalar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 SMM va Media Marketing bo‘yicha tajribaga ega
+
+🎯 Maqsadim — professional backend mutaxassis bo‘lish
+
+🛠️ Texnologiyalar & Skillar
+Backend
+
+Frontend
+
+Tools
+
+
+📈 GitHub Statistika
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Baxrombekk&show_icons=true&theme=tokyonight" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Baxrombekk&theme=tokyonight" /> </p>
+🔥 Top Texnologiyalar
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baxrombekk&layout=compact&theme=tokyonight" /> </p>
+🌍 Menga bog‘laning
+
+📧 Email: baxrombekotaqulov2024@gmail.com
+
+💬 Telegram: @Baxrombek_Otaqulov
